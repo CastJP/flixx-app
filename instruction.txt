@@ -5,3 +5,5 @@
 * init runs on every page because script.js is connected to every page
 5. We create function that fetches data from TMDB API
 6. We create displayPopularMovies() function
+7. showSpinner() and hideSpinner() function
+8. displayPopularShows() function
