@@ -1,0 +1,5 @@
+1. Create global variable with location of current page
+2. Create init function, that initializes during the load of the page
+3. init function does different things depending on current page so we create a router
+4. Create highlightActiveLink() function to highlight the title of the page we currently are at
+* init runs on every page because script.js is connected to every page
