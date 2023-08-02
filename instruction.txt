@@ -10,3 +10,4 @@
 9.displayMovieDetails()
 10. addCommasToNumber()
 11. displayBackgroundImage()
+12. displayShowDetails()
