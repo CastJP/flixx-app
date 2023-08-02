@@ -7,3 +7,6 @@
 6. We create displayPopularMovies() function
 7. showSpinner() and hideSpinner() function
 8. displayPopularShows() function
+9.displayMovieDetails()
+10. addCommasToNumber()
+11. displayBackgroundImage()
